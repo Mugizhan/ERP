@@ -159,7 +159,33 @@
        color:lightblack;
        font-size:15px;
     }
-    
+
+    .nam{
+        position:relative;
+        left:4%;
+    }
+    .mrk{
+        border: 1px solid black;
+        POSITION:RELATIVE;
+        right:10rem;
+        top:10rem;
+        border: none;
+    }
+    .mrk tr td{
+        position:relative;
+        left:-.1rem;
+        padding-top:0.5%;
+        padding-bottom:0.1%;
+        COLOR:rgb(63, 0, 145);
+    }
+    .mrk tr th{
+        background-color: #1586C3;
+        color:rgb(255, 255, 195);
+    }
+    .mrk tr:nth-child(odd){
+        background-color: rgb(240, 240, 240);
+        padding-left: 20%;
+    }
 
 
 
