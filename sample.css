@@ -167,8 +167,8 @@
     .mrk{
         border: 1px solid black;
         POSITION:RELATIVE;
-        right:10rem;
-        top:10rem;
+        right:5rem;
+        top:4rem;
         border: none;
     }
     .mrk tr td{
