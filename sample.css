@@ -170,6 +170,9 @@
         right:5rem;
         top:4rem;
         border: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        height:130%;
     }
     .mrk tr td{
         position:relative;
@@ -185,6 +188,9 @@
     .mrk tr:nth-child(odd){
         background-color: rgb(240, 240, 240);
         padding-left: 20%;
+    }
+    .sub{
+        
     }
 
 
